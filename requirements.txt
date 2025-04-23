@@ -1,0 +1,5 @@
+# Python 3.12+
+groq
+requests
+python-dotenv
+ipython
